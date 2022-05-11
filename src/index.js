@@ -236,7 +236,7 @@ $(function () {
 		view: view
 	});
 
-	var layersControlBuild = function (selectHtml) {
+	var layersControlBuild = function () {
 		var visibleLayer,
 			previousLayer,
 			layerIndex = 0,
