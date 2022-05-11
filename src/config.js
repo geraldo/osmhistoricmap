@@ -36,7 +36,7 @@ var config = {
 	},
 	// Base layers
 	layers: [
-		new ol.layer.Tile({
+		/*new ol.layer.Tile({
 			title: 'OpenStreetMap',
 			iconSrc: imgSrc + 'osm_logo-layer.svg',
 			source: new ol.source.OSM()
@@ -880,7 +880,7 @@ var config = {
 				url: 'https://mt{0-3}.google.com/vt/lyrs=s&z={z}&x={x}&y={y}'
 			}),
 			visible: false
-		})
+		})*/
 	],
 	/**
 	* @type Array
